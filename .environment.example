@@ -1,0 +1,5 @@
+DEFAULT_DB_NAME=postgres
+DEFAULT_DB_USER=postgres
+DEFAULT_DB_PASSWORD=postgres
+DEFAULT_DB_HOST=smart-wash-postgres
+DEFAULT_DB_PORT=5432
